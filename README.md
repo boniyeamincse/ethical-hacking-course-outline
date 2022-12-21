@@ -43,3 +43,7 @@ Module 18: Maintaining Access
 Module 19: Hacking Mobile Platforms
 
 Module 20: Cryptography & Steganography
+
+
+Red team note 
+https://www.ired.team/offensive-security/defense-evasion/av-bypass-with-metasploit-templates
